@@ -1,2 +1,2 @@
-R script to analyze neuron activity
+R/Python scripts to analyze neuron activity
 
